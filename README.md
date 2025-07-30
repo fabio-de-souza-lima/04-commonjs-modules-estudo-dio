@@ -46,6 +46,11 @@ Feito com 💡 e prática por Fabio de Souza Lima
 
 
 ---
+Se quiser, posso te mostrar como rodar esse projeto com o comando:
+
+bash
+
+node src/main.js
 
 4. Depois de colar o conteúdo, role para baixo na página e:
    - Escreva uma mensagem de commit, como por exemplo:  
