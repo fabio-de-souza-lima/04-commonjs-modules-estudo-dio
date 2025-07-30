@@ -52,9 +52,4 @@ bash
 
 node src/main.js
 
-4. Depois de colar o conteúdo, role para baixo na página e:
-   - Escreva uma mensagem de commit, como por exemplo:  
-     `create: adiciona README do projeto`
-   - Marque a opção **"Commit directly to the `main` branch"** (deixe selecionado).
-   - Clique no botão **"Commit new file"**.
 
