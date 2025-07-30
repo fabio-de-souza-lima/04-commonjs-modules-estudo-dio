@@ -53,9 +53,3 @@ Feito com 💡 e prática por Fabio de Souza Lima
    - Marque a opção **"Commit directly to the `main` branch"** (deixe selecionado).
    - Clique no botão **"Commit new file"**.
 
----
-
-✅ Pronto! O GitHub vai atualizar a página inicial do seu repositório com esse `README.md` bonitinho.
-
-Se quiser, posso gerar o arquivo `.md` aqui para você baixar também. Deseja isso?
-
